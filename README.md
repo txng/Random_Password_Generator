@@ -4,4 +4,8 @@ I recently started learning Python and decided to create a simple password gener
 
 <br>
 
-This script generates random passwords based on user-defined criteria. While it's a basic implementation at the moment, I plan to enhance and expand its features in the future. For now, it serves as a practical demonstration of my progress in Python.
+This script generates random passwords based on user-defined criteria. While it's a basic implementation at the moment, I plan to enhance and expand its features in the future. For now, it serves as a practical demonstration of my progress in Python. <br>
+
+<br>
+
+![rpg](Images/rpg.png)
