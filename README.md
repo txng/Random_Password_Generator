@@ -8,4 +8,4 @@ This script generates random passwords based on user-defined criteria. While it'
 
 <br>
 
-![rpg](Images/rpg.png)
+![rpg](images/rpg.png)
